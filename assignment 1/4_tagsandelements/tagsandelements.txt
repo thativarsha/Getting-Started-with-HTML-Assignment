@@ -1,0 +1,14 @@
+tags:
+Tags are used to define the purpose and structure of the webpage.They are used
+Instruct web browser how to display the content they enclose. Tags are two types 
+>opening tags.
+>closing tags.
+
+They are paired tags and unpaired tags.
+
+
+elements:
+An HTML element is a complete unit that includes an opening tag, content,
+and a closing tag. It represents a distinct part of a webpage's content or structure.
+Elements are composed of tags and the content enclosed between those tags.
+
